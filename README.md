@@ -110,8 +110,8 @@ Validate that the migrated identity retained continuity with its original accoun
 
 ## Tech Stack
 
-**Infrastructure:** Microsoft Azure (VNets, VNet Peering, Resource Groups) · Windows Server 2025
-**Identity:** Active Directory Domain Services · Active Directory Domains and Trusts · Group Policy
-**Migration Tooling:** Active Directory Migration Tool (ADMT) 3.2 · SQL Server Express
-**Scripting & Validation:** PowerShell (`Get-ADTrust`, `Get-ADUser`, `netdom`, `nltest`, `Get-AzVirtualNetworkPeering`, `auditpol`)
-**Documentation:** Notion (runbooks) · GitHub
+**Infrastructure:** Microsoft Azure (VNets, VNet Peering, Resource Groups) · Windows Server 2025  
+**Identity:** Active Directory Domain Services · Active Directory Domains and Trusts · Group Policy  
+**Migration Tooling:** Active Directory Migration Tool (ADMT) 3.2 · SQL Server Express  
+**Scripting & Validation:** PowerShell (`Get-ADTrust`, `Get-ADUser`, `netdom`, `nltest`, `Get-AzVirtualNetworkPeering`, `auditpol`)  
+**Documentation:** Notion (runbooks) · GitHub  
